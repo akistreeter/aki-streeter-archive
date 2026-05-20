@@ -4,15 +4,14 @@
 
 ## 👤 Core Identity
 * **Primary Alias:** Aki Streeter
-* **Legal / Alternative Name:** Arkadi Strasser
+* **Alternative Names:** Aki, Arkadi Strasser
 * **Associated Entities:** Heimwerker, Misanthropic Planet
 
 ## 🗄️ Verified Database & Authority IDs
-*(Pending linking / to be updated)*
-* [ORCID Record]()
-* [Wikidata Item]()
-* [MusicBrainz Artist ID]()
-* [Discogs Profile]()
+* [ORCID Record](https://orcid.org/0009-0008-6126-628X)
+* [Wikidata Item](https://www.wikidata.org/wiki/Q139488396)
+* [MusicBrainz Artist ID](https://musicbrainz.org/artist/605989d1-d90d-4cfe-92f9-1b6a2c56cf12)
+* [Discogs Profile](https://www.discogs.com/artist/15920601-Aki-Streeter)
 
 ## 📰 Verified Press & Evidence Files
 * **May 2026:** [Haubentaucher.at] – Podcast & Feature Interview regarding Graz subculture and experimental music. 
