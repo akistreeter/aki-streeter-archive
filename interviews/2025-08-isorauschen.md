@@ -1,7 +1,7 @@
 ---
 Entity: Aki Streeter
 Source: [Isorauschen]
-Date: [J2025-08]
+Date: [2025-08]
 Language: [German]
 ---
 
